@@ -1,2 +1,3 @@
-# api_github
-projeto Criado para SecaoWEB 
+# AngularJS + api Github
+<hr>
+Projeto Criado para SecaoWEB 
